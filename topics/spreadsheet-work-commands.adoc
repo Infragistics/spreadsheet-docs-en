@@ -65,7 +65,7 @@ This topic contains the following sections:
 
 === Commands summary
 
-The {SpreadsheetName} control provides a lot of commands for activating different features by instantiating the link:{ApiPlatform}controls.grids.xamspreadsheet.v{ProductVersion}~infragistics.controls.grids.primitives.spreadsheetcommandsource_members.html[SpreadsheetCommandSource] type. You can find the full list of commands in the link:{ApiPlatform}controls.grids.xamspreadsheet.v{ProductVersion}~infragistics.controls.grids.spreadsheetcommandtype.html[SpreadsheetCommandType] enumeration.
+The {SpreadsheetName} control provides a lot of commands for activating different features by instantiating the link:{ApiPlatform}controls.grids.xamspreadsheet{ApiVersion}~infragistics.controls.grids.primitives.spreadsheetcommandsource_members.html[SpreadsheetCommandSource] type. You can find the full list of commands in the link:{ApiPlatform}controls.grids.xamspreadsheet{ApiVersion}~infragistics.controls.grids.spreadsheetcommandtype.html[SpreadsheetCommandType] enumeration.
 
 .Note
 [NOTE]

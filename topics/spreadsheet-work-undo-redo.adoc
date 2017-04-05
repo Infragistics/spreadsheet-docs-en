@@ -67,7 +67,7 @@ This topic contains the following sections:
 
 === Undo and Redo configuration summary
 
-The {SpreadsheetName} control uses the link:undo-redo-framework.html[Infragistics Undo/Redo Framework] to provide robust undo and redo support for the changes made by the user. The control tracks all changes made to the associated workbook and populates the  pick:[xaml=" link:{ApiPlatform}undo.v{ProductVersion}~infragistics.undo.undomanager.html[UndoManager]"]  pick:[win-forms=" link:{ApiPlatform}undo.v{ProductVersion}.html[Undo]"] .
+The {SpreadsheetName} control uses the link:undo-redo-framework.html[Infragistics Undo/Redo Framework] to provide robust undo and redo support for the changes made by the user. The control tracks all changes made to the associated workbook and populates the  pick:[xaml=" link:{ApiPlatform}undo{ApiVersion}~infragistics.undo.undomanager.html[UndoManager]"]  pick:[win-forms=" link:{ApiPlatform}undo.v{ProductVersion}.html[Undo]"] .
 
 .Note
 [NOTE]
@@ -82,7 +82,7 @@ Each {SpreadsheetName} control uses its own `UndoManager` instance. You can also
 * Calling the following  pick:[win-forms="Manager"]  pick:[xaml="methods"] 
 
 ifdef::xaml[]
-** {SpreadsheetName} link:{ApiPlatform}undo.v{ProductVersion}~infragistics.undo.undomanager~undo.html[.UndoManager.Undo]
+** {SpreadsheetName} link:{ApiPlatform}undo{ApiVersion}~infragistics.undo.undomanager~undo.html[.UndoManager.Undo]
 
 endif::xaml[]
 
@@ -92,7 +92,7 @@ ifdef::win-forms[]
 endif::win-forms[]
 
 ifdef::xaml[]
-** {SpreadsheetName} link:{ApiPlatform}undo.v{ProductVersion}~infragistics.undo.undomanager~redo.html[.UndoManager.Redo]
+** {SpreadsheetName} link:{ApiPlatform}undo{ApiVersion}~infragistics.undo.undomanager~redo.html[.UndoManager.Redo]
 
 endif::xaml[]
 
