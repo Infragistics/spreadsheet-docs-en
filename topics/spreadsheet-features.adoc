@@ -59,7 +59,7 @@ The following screenshot shows the link:{SpreadsheetLink}.{SpreadsheetName}.html
 
 === {SpreadsheetName} summary
 
-The {SpreadsheetName} control allows visualizing and editing of spreadsheet data, represented by the data model supported by the  pick:[wpf,sl,xaml=" link:igexcelengine-about-infragistics-excel-engine.html[Infragistics Excel Engine]"]   pick:[win-forms=" link:win-infragistics-excel-engine.html[Infragistics Excel Engine]"]  comprising of link:{ApiPlatform}documents.excel.v{ProductVersion}~infragistics.documents.excel.workbook.html[Workbooks], link:{ApiPlatform}documents.excel.v{ProductVersion}~infragistics.documents.excel.worksheet.html[Worksheets], link:{ApiPlatform}documents.excel.v{ProductVersion}~infragistics.documents.excel.worksheetcell.html[Cells], link:{ApiPlatform}documents.excel.v{ProductVersion}~infragistics.documents.excel.formula.html[Formulas] and more.
+The {SpreadsheetName} control allows visualizing and editing of spreadsheet data, represented by the data model supported by the  pick:[wpf,sl,xaml=" link:igexcelengine-about-infragistics-excel-engine.html[Infragistics Excel Engine]"]   pick:[win-forms=" link:win-infragistics-excel-engine.html[Infragistics Excel Engine]"]  comprising of link:{ApiPlatform}documents.excel{ApiVersion}~infragistics.documents.excel.workbook.html[Workbooks], link:{ApiPlatform}documents.excel{ApiVersion}~infragistics.documents.excel.worksheet.html[Worksheets], link:{ApiPlatform}documents.excel{ApiVersion}~infragistics.documents.excel.worksheetcell.html[Cells], link:{ApiPlatform}documents.excel{ApiVersion}~infragistics.documents.excel.formula.html[Formulas] and more.
 
 The following screenshot shows the {SpreadsheetName} control displaying some spreadsheet data:
 
