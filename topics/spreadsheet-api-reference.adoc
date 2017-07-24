@@ -33,7 +33,7 @@ endif::xaml[]
 |The Infragistics Excel Engine namespace.
 
 ifdef::win-forms[]
-| link:{ApiPlatform}v{ProductVersion}{ApiProp}infragistics.win_namespace.html[Infragistics.Win]
+| link:{ApiPlatform}{ApiVersion}{ApiProp}infragistics.win_namespace.html[Infragistics.Win]
 |The Infragistics Win namespace.
 
 | link:{SpreadsheetLinkBase}.ultrawinspreadsheet_namespace.html[Infragistics.Win.Spreadsheet]
