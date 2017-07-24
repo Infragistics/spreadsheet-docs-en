@@ -89,19 +89,19 @@ The following steps demonstrate how to add the {SpreadsheetName} to your page.
 
 Add the following assembly references in your project:
 
-*{ApiPlatform}{DllVersion}dll*
+*{ApiPlatform}{ApiVersion}dll*
 
-*{ApiPlatform}Undo.{DllVersion}dll*
+*{ApiPlatform}Undo{ApiVersion}.dll*
 
-*{ApiPlatform}Documents.Core.{DllVersion}dll*
+*{ApiPlatform}Documents.Core{ApiVersion}.dll*
 
-*{ApiPlatform}Documents.Excel.{DllVersion}dll*
+*{ApiPlatform}Documents.Excel{ApiVersion}.dll*
 
-pick:[xaml="*{ApiPlatform}Controls.Menus.XamMenu.{DllVersion}dll*"]
+pick:[xaml="*{ApiPlatform}Controls.Menus.XamMenu{ApiVersion}.dll*"]
 
-pick:[xaml="*{ApiPlatform}Controls.Grids.{SpreadsheetName}.{DllVersion}dll*"]
+pick:[xaml="*{ApiPlatform}Controls.Grids.{SpreadsheetName}{ApiVersion}.dll*"]
 
-pick:[win-forms="*{ApiPlatform}Win.{SpreadsheetName}.{DllVersion}dll*"]
+pick:[win-forms="*{ApiPlatform}Win.{SpreadsheetName}{ApiVersion}.dll*"]
 
 === 2. Add namespaces
 
